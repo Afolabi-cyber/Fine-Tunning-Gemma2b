@@ -1,5 +1,3 @@
-# Fine-Tunning-Gemma2b
-
 # Fine-Tuned Gemma 2B Model
 
 This repository contains the fine-tuned Gemma 2B model, optimized for enhanced natural language understanding and dialogue coherence across diverse domains.
