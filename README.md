@@ -12,12 +12,13 @@ Applications:
 **Customer Service Automation**: Enhance customer interactions with responsive AI-driven support systems.
 **Educational Tools**: Facilitate interactive learning experiences with intelligent tutoring and Q&A systems.
 **Personalized Assistants**: Provide users with tailored information and assistance through intuitive dialogue interfaces.
-Getting Started:
+**Getting Started**:
 
 Clone Repository: git clone https://github.com/Afolabi-cyber/fine-tuned-gemma-2b
 Install Dependencies: pip install -r requirements.txt
 
 Deploy Model: Follow deployment instructions in docs/deployment.md for integrating the model into your application.
+
 **Contributing:**
 Contributions are welcome! Whether you're interested in optimizing model performance, expanding dataset capabilities, or exploring new applications, your expertise can help advance conversational AI technologies.
 
